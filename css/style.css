@@ -1,0 +1,34 @@
+.navbar-brand img{
+    width: 50%;
+}
+.penguin-button{
+    background-image: linear-gradient(45deg, rgb(8, 104, 8), yellowgreen);
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: medium;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.penguin-card img{
+    
+    height: 350px;
+    width: 100%
+}  
+.penguin-card{
+    border:0; 
+}
+.penguin-card-footer{
+    border: 0;
+}
+.shop-info h2{
+    font-size: 20px;
+}
+.shop-info p{
+    font-size: 10px;
+}
+.shop-info img{
+    width: 25%;
+}
+  
