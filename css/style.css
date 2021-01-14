@@ -1,3 +1,7 @@
+body{
+    color: rgb(9, 9, 44);
+}
+
 .navbar-brand img{
     width: 50%;
 }
@@ -14,7 +18,8 @@
 .penguin-card img{
     
     height: 350px;
-    width: 100%
+    width: 100%;
+    background-color: whitesmoke;
 }  
 .penguin-card{
     border:0; 
@@ -23,7 +28,7 @@
     border: 0;
 }
 .shop-info h2{
-    font-size: 20px;
+    font-size: 15px;
 }
 .shop-info p{
     font-size: 10px;
@@ -31,4 +36,6 @@
 .shop-info img{
     width: 25%;
 }
-  
+.penguin-submit{
+    background-color: whitesmoke
+}
